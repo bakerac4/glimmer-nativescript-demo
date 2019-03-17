@@ -1,8 +1,26 @@
 [
   {
     "name": "GlimmerNativescriptDemo",
-    "source": "{\"id\":\"KzYMasBr\",\"block\":\"{\\\"symbols\\\":[],\\\"statements\\\":[[0,\\\"\\\\n        \\\"],[7,\\\"page\\\"],[9],[0,\\\"\\\\n            \\\"],[7,\\\"actionbar\\\"],[9],[0,\\\"\\\\n                \\\"],[7,\\\"label\\\"],[11,\\\"text\\\",\\\"Welcome to nativescript glimmer\\\",null],[11,\\\"class\\\",\\\"action-label\\\",null],[9],[10],[0,\\\"\\\\n                \\\"],[10],[0,\\\"\\\\n        \\\"],[10],[0,\\\"\\\\n        \\\"]],\\\"hasEval\\\":false}\",\"meta\":{}}",
+    "source": "{\"id\":\"vzHoRST2\",\"block\":\"{\\\"symbols\\\":[],\\\"statements\\\":[[5,\\\"PageOne\\\",[],[[],[]],[[\\\"default\\\"],[{\\\"statements\\\":[],\\\"parameters\\\":[]}]]]],\\\"hasEval\\\":false}\",\"meta\":{}}",
     "handle": 0,
+    "capabilities": {
+      "attributeHook": true,
+      "createArgs": true,
+      "createCaller": false,
+      "createInstance": true,
+      "dynamicLayout": false,
+      "dynamicScope": false,
+      "dynamicTag": true,
+      "elementHook": true,
+      "prepareArgs": false,
+      "updateHook": true,
+      "wrapped": false
+    }
+  },
+  {
+    "name": "PageOne",
+    "source": "{\"id\":\"Ikn9H8kn\",\"block\":\"{\\\"symbols\\\":[],\\\"statements\\\":[[7,\\\"page\\\"],[9],[0,\\\"\\\\n    \\\"],[7,\\\"actionbar\\\"],[9],[0,\\\"\\\\n        \\\"],[7,\\\"label\\\"],[12,\\\"text\\\",[24,0,[\\\"title\\\"]],null],[11,\\\"class\\\",\\\"action-label\\\",null],[9],[10],[0,\\\"\\\\n    \\\"],[10],[0,\\\"\\\\n    \\\"],[7,\\\"button\\\"],[12,\\\"text\\\",[24,0,[\\\"buttonText\\\"]],null],[11,\\\"class\\\",\\\"btn\\\",null],[9],[3,\\\"on\\\",[\\\"tap\\\",[29,\\\"action\\\",[[25,[\\\"buttonClick\\\"]]],null]],null],[10],[0,\\\"\\\\n\\\"],[10]],\\\"hasEval\\\":false}\",\"meta\":{}}",
+    "handle": 1,
     "capabilities": {
       "attributeHook": true,
       "createArgs": true,

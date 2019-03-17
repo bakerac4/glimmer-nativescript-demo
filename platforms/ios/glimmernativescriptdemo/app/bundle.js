@@ -155,7 +155,8 @@ module.exports =
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./GlimmerNativescriptDemo/component.ts": "../src/ui/components/GlimmerNativescriptDemo/component.ts"
+	"./GlimmerNativescriptDemo/component.ts": "../src/ui/components/GlimmerNativescriptDemo/component.ts",
+	"./PageOne/component.ts": "../src/ui/components/PageOne/component.ts"
 };
 
 
@@ -185,7 +186,8 @@ webpackContext.id = "../src/ui/components sync recursive ^\\.\\/.*\\/component\\
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./GlimmerNativescriptDemo/component.ts": "../src/ui/components/GlimmerNativescriptDemo/component.ts"
+	"./GlimmerNativescriptDemo/component.ts": "../src/ui/components/GlimmerNativescriptDemo/component.ts",
+	"./PageOne/component.ts": "../src/ui/components/PageOne/component.ts"
 };
 
 
@@ -221,7 +223,39 @@ __webpack_require__.r(__webpack_exports__);
 
 class GlimmerNativescriptDemo extends _glimmer_component__WEBPACK_IMPORTED_MODULE_0__["default"] {
 }
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiY29tcG9uZW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE9BQU8sU0FBUyxNQUFNLG9CQUFvQixDQUFDO0FBRTNDLE1BQU0sQ0FBQyxPQUFPLDhCQUErQixTQUFRLFNBQVM7Q0FFN0QiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgQ29tcG9uZW50IGZyb20gJ0BnbGltbWVyL2NvbXBvbmVudCc7XG5cbmV4cG9ydCBkZWZhdWx0IGNsYXNzIEdsaW1tZXJOYXRpdmVzY3JpcHREZW1vIGV4dGVuZHMgQ29tcG9uZW50IHtcblxufVxuIl19
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiY29tcG9uZW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE9BQU8sU0FBUyxNQUFNLG9CQUFvQixDQUFDO0FBQzNDLE1BQU0sQ0FBQyxPQUFPLDhCQUErQixTQUFRLFNBQVM7Q0FDN0QiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgQ29tcG9uZW50IGZyb20gJ0BnbGltbWVyL2NvbXBvbmVudCc7XG5leHBvcnQgZGVmYXVsdCBjbGFzcyBHbGltbWVyTmF0aXZlc2NyaXB0RGVtbyBleHRlbmRzIENvbXBvbmVudCB7XG59XG4iXX0=
+
+/***/ }),
+
+/***/ "../src/ui/components/PageOne/component.ts":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return PageOne; });
+/* harmony import */ var _glimmer_component__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("../node_modules/@glimmer/component/dist/modules/es2017/index.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+class PageOne extends _glimmer_component__WEBPACK_IMPORTED_MODULE_0__["default"] {
+    constructor() {
+        super(...arguments);
+        this.title = "Welcome to glimmer";
+        this.buttonText = "Click Me!";
+    }
+    buttonClick() {
+        console.log('in next');
+        this.title = "Ive heard it both ways";
+    }
+}
+__decorate([
+    _glimmer_component__WEBPACK_IMPORTED_MODULE_0__["tracked"]
+], PageOne.prototype, "title", void 0);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiY29tcG9uZW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBLE9BQU8sU0FBUyxFQUFFLEVBQUUsT0FBTyxFQUFFLE1BQU0sb0JBQW9CLENBQUM7QUFDeEQsTUFBTSxDQUFDLE9BQU8sY0FBZSxTQUFRLFNBQVM7SUFBOUM7O1FBRUksVUFBSyxHQUFHLG9CQUFvQixDQUFDO1FBRTdCLGVBQVUsR0FBRyxXQUFXLENBQUE7SUFNNUIsQ0FBQztJQUpHLFdBQVc7UUFDUCxPQUFPLENBQUMsR0FBRyxDQUFDLFNBQVMsQ0FBQyxDQUFDO1FBQ3ZCLElBQUksQ0FBQyxLQUFLLEdBQUcsd0JBQXdCLENBQUM7SUFDMUMsQ0FBQztDQUNKO0FBUkc7SUFEQyxPQUFPO3NDQUNxQiIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBDb21wb25lbnQsIHsgdHJhY2tlZCB9IGZyb20gJ0BnbGltbWVyL2NvbXBvbmVudCc7XG5leHBvcnQgZGVmYXVsdCBjbGFzcyBQYWdlT25lIGV4dGVuZHMgQ29tcG9uZW50IHtcbiAgICBAdHJhY2tlZFxuICAgIHRpdGxlID0gXCJXZWxjb21lIHRvIGdsaW1tZXJcIjtcblxuICAgIGJ1dHRvblRleHQgPSBcIkNsaWNrIE1lIVwiXG5cbiAgICBidXR0b25DbGljaygpIHtcbiAgICAgICAgY29uc29sZS5sb2coJ2luIG5leHQnKTtcbiAgICAgICAgdGhpcy50aXRsZSA9IFwiSXZlIGhlYXJkIGl0IGJvdGggd2F5c1wiO1xuICAgIH1cbn1cbiJdfQ==
 
 /***/ }),
 
