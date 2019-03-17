@@ -1,0 +1,15 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"/Users/adambaker/Development/glimmer-nativescript-demo/app/app.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/adambaker/Development/glimmer-nativescript-demo/app/app.d.ts": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/adambaker/Development/glimmer-nativescript-demo/app/app.ts": "6e5585a180c5a4d7c01af66ee1d021b218f10cce",
+		"/Users/adambaker/Development/glimmer-nativescript-demo/app/package.json": "de925cecceed63b4bc9cce0b453ebdc7007bb07c"
+	},
+	"release": false,
+	"bundle": true,
+	"changesRequireBuild": true,
+	"time": "Sun Mar 17 2019 13:39:20 GMT-0400 (Eastern Daylight Time)",
+	"changesRequireBuildTime": "Sun Mar 17 2019 13:39:20 GMT-0400 (Eastern Daylight Time)",
+	"projectFileHash": "2ab6fb5364626002cd0250ccb5ced9de150eb85d5850417a9bfed0cbbaf0eea0"
+}

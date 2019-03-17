@@ -1,0 +1,20 @@
+[
+  {
+    "name": "GlimmerNativescriptDemo",
+    "source": "{\"id\":\"KzYMasBr\",\"block\":\"{\\\"symbols\\\":[],\\\"statements\\\":[[0,\\\"\\\\n        \\\"],[7,\\\"page\\\"],[9],[0,\\\"\\\\n            \\\"],[7,\\\"actionbar\\\"],[9],[0,\\\"\\\\n                \\\"],[7,\\\"label\\\"],[11,\\\"text\\\",\\\"Welcome to nativescript glimmer\\\",null],[11,\\\"class\\\",\\\"action-label\\\",null],[9],[10],[0,\\\"\\\\n                \\\"],[10],[0,\\\"\\\\n        \\\"],[10],[0,\\\"\\\\n        \\\"]],\\\"hasEval\\\":false}\",\"meta\":{}}",
+    "handle": 0,
+    "capabilities": {
+      "attributeHook": true,
+      "createArgs": true,
+      "createCaller": false,
+      "createInstance": true,
+      "dynamicLayout": false,
+      "dynamicScope": false,
+      "dynamicTag": true,
+      "elementHook": true,
+      "prepareArgs": false,
+      "updateHook": true,
+      "wrapped": false
+    }
+  }
+]
