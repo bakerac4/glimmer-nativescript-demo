@@ -1,4 +1,5 @@
-import Component, { tracked } from '@glimmer/component';
+import Component from '@glimmer/component';
+import { tracked } from '@glimmer/tracking';
 export default class PageOne extends Component {
     @tracked
     title = "Welcome to glimmer";

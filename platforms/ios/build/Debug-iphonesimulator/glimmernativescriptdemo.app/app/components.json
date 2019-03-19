@@ -17,5 +17,24 @@
     "location": "src/ui/components/GlimmerNativescriptDemo/component.ts",
     "handle": 0,
     "hasSymbolTable": true
+  },
+  {
+    "name": "PageOne",
+    "capabilities": {
+      "attributeHook": true,
+      "createArgs": true,
+      "createCaller": false,
+      "createInstance": true,
+      "dynamicLayout": false,
+      "dynamicScope": false,
+      "dynamicTag": true,
+      "elementHook": true,
+      "prepareArgs": false,
+      "updateHook": true,
+      "wrapped": false
+    },
+    "location": "src/ui/components/PageOne/component.ts",
+    "handle": 1,
+    "hasSymbolTable": true
   }
 ]

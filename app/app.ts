@@ -23,8 +23,10 @@ function addComponents(appFolder) {
     });
 }
 
-function requireAll(r) { r.keys().forEach(r); }
-requireAll(require.context('../src/ui/components/', true, /component.ts$/));
+
+//
+// function requireAll(r) { r.keys().forEach(r); }
+// requireAll(require.context('../src/ui/components/', true, /component.ts$/));
 
 try {
     let appFolder = knownFolders.currentApp();
