@@ -1,34 +1,9 @@
 # glimmer-nativescript-demo
 
-This README outlines the details of collaborating on this Glimmer application.
-A short introduction of this app could easily go here.
-
-## Prerequisites
-
-You will need the following things properly installed on your computer.
-
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with NPM)
-* [Yarn](https://yarnpkg.com/en/)
-* [Ember CLI](https://ember-cli.com/)
-
-## Installation
-
-* `git clone <repository-url>` this repository
-* `cd glimmer-nativescript-demo`
-* `yarn`
-
-## Running / Development
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-## Further Reading / Useful Links
-
-* [glimmerjs](http://github.com/tildeio/glimmer/)
-* [ember-cli](https://ember-cli.com/)
+1. Follow the [NativeScript Setup Guides](https://docs.nativescript.org/angular/start/quick-setup#full-setup)
+2. Clone Repo
+3. `npm install`
+4. Run `tns debug ios --bundle --debug-brk`
+5. Open inspector (watch terminal for url to paste into chrome)
+6. Program will pause in starter.js. Put a break point on line 2 `require("./bundle")`
+7. Once it breaks on line 2 you will be able to put a break point anywhere (i.e. you can search for `tracked` and add a breakpoint in `installTrackProperty`)
