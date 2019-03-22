@@ -249,6 +249,14 @@ module.exports = env => {
                 context: projectRoot
               },
             ]),
+
+            new CopyWebpackPlugin([
+              {
+                from: `dist/app.js`,
+                to: `${dist}/glimmer-app.js`,
+                context: projectRoot
+              },
+            ]),
             // Copy assets to out dir. Add your own globs as needed.
             new CopyWebpackPlugin([
                 { from: { glob: "fonts/**" } },

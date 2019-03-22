@@ -19,7 +19,7 @@ function addComponents(appFolder) {
     JSON.parse(components).forEach(component => {
         console.log(`About to resolve require`);
         const classFile = require(`../src/ui/components/${component.name}/component.ts`);
-        resolver.addComponent(component.name, classFile.default);
+        resolver.registerComponent(component.name, classFile.default);
     });
 }
 

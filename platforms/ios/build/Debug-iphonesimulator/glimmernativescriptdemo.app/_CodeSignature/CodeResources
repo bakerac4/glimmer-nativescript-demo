@@ -78,7 +78,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		8q2RrDsGVuc4e8bwC+xui7Mhitg=
+		Yt+j+BzsMO4NjP+oxNT7WIATMyo=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		XJ5gMqYbk17Y5u8yh48wult2KWU=
+		XLdTg5EGg46/3oFDNwZfYh470P4=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		xNLQG5kFRsj0PhUy424fnI17xNM=
+		nmDRSMue0JDeajSsGbazX7/RHTA=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>app/bundle.js</key>
 		<data>
-		VGggaQFQihXiNPJH4v9k6fWKWIA=
+		1TwOhplu5X/7u30GxTBRzM0Rg1Y=
 		</data>
 		<key>app/components.json</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>app/vendor.js</key>
 		<data>
-		F32TYkZzpDeqS6rmEKBvx0leuuw=
+		8YdMbAoAv6Z1eMF8N/bPmbJZ/5Y=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -454,11 +454,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8q2RrDsGVuc4e8bwC+xui7Mhitg=
+			Yt+j+BzsMO4NjP+oxNT7WIATMyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6gcCCmbkPS7TE4L9tE1ERCCyNxbJ+rcLcX0+7Z3EJ7U=
+			pXnzsjMeaAalKLeXySAKZTC+Np+sLh846IXxlSFgRSU=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -773,11 +773,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XJ5gMqYbk17Y5u8yh48wult2KWU=
+			XLdTg5EGg46/3oFDNwZfYh470P4=
 			</data>
 			<key>hash2</key>
 			<data>
-			jU5BdgDFr6uffCzpcSZDV7eZGujVIdhjxHIVRnNg2r8=
+			Om5u02pEuPEdC2nZoDvd1FJBbxo3Qi/POoPl8oQz2yU=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -795,22 +795,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xNLQG5kFRsj0PhUy424fnI17xNM=
+			nmDRSMue0JDeajSsGbazX7/RHTA=
 			</data>
 			<key>hash2</key>
 			<data>
-			VszjRx82QT3Zvc+wcN+9yXY1exGtU2uXJS+BqCkj2Wo=
+			Xcl346Ozdm4BIc+pPGP1uSFr8LVlu2MTvWAliyFFM1c=
 			</data>
 		</dict>
 		<key>app/bundle.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VGggaQFQihXiNPJH4v9k6fWKWIA=
+			1TwOhplu5X/7u30GxTBRzM0Rg1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			fpTLrls436ZBhzdvVlKy0LPC6qPiUOVn7jzXWHZi1B4=
+			yRNe3jsVrw+8jp3Onz410UY/6VlBHWORMUmfAnWL3wM=
 			</data>
 		</dict>
 		<key>app/components.json</key>
@@ -861,11 +861,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F32TYkZzpDeqS6rmEKBvx0leuuw=
+			8YdMbAoAv6Z1eMF8N/bPmbJZ/5Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			MfvmaAuzimrQAHU/K8bCQNVz+WSj5CjeTsonWAzc2zg=
+			Lf81P42M4eaBxFLn24LHAz9vI4aKPnJQAi7wNXkQE9o=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

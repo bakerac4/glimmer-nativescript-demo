@@ -3,13 +3,13 @@
 	"appFilesHashes": {
 		"/Users/adambaker/Development/glimmer-nativescript-demo/app/app.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
 		"/Users/adambaker/Development/glimmer-nativescript-demo/app/app.d.ts": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-		"/Users/adambaker/Development/glimmer-nativescript-demo/app/app.ts": "1f7998e2c0ff8b7b8d9163773217e4ca18a73f6a",
+		"/Users/adambaker/Development/glimmer-nativescript-demo/app/app.ts": "3d5745722df165f2a3cb07cb19e911f58a618c68",
 		"/Users/adambaker/Development/glimmer-nativescript-demo/app/package.json": "de925cecceed63b4bc9cce0b453ebdc7007bb07c"
 	},
 	"release": false,
 	"bundle": true,
 	"changesRequireBuild": false,
-	"time": "Tue Mar 19 2019 11:27:00 GMT-0400 (Eastern Daylight Time)",
-	"changesRequireBuildTime": "Tue Mar 19 2019 11:24:54 GMT-0400 (Eastern Daylight Time)",
-	"projectFileHash": "4ad8e4e072a499f6dcb3612cda251a0f209885187f78fb65da5085f2f5cf708a"
+	"time": "Thu Mar 21 2019 13:33:29 GMT-0400 (Eastern Daylight Time)",
+	"changesRequireBuildTime": "Thu Mar 21 2019 13:14:08 GMT-0400 (Eastern Daylight Time)",
+	"projectFileHash": "fd460d9d49b4f2651b17207265f3b499e8ec83565f79bd6bfe0f0a32d0abdded"
 }

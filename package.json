@@ -16,7 +16,7 @@
   "dependencies": {
     "@glimmer/compiler": "^0.39.3",
     "glimmer-analyzer": "^0.3.3",
-    "nativescript-glimmer": "git+https://github.com/bakerac4/nativescript-glimmer.git#tracked-props",
+    "nativescript-glimmer": "git+https://github.com/bakerac4/nativescript-glimmer.git#master",
     "nativescript-theme-core": "^1.0.4",
     "tns-core-modules": "^5.2.2"
   },
