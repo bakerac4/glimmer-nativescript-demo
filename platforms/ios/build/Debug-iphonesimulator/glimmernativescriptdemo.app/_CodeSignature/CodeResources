@@ -78,7 +78,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Yt+j+BzsMO4NjP+oxNT7WIATMyo=
+		7La41E09SZmnrTKI69iZBZv0oxM=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		XLdTg5EGg46/3oFDNwZfYh470P4=
+		1THqdOIyoKD/QdYqoW7Z/gsmj6k=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		nmDRSMue0JDeajSsGbazX7/RHTA=
+		eqddPXBf3YxXKt45DV1N3yyq900=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -214,11 +214,15 @@
 		</data>
 		<key>app/bundle.js</key>
 		<data>
-		1TwOhplu5X/7u30GxTBRzM0Rg1Y=
+		6X9f4/Haf3B93u9lvrbhw1kbi2Q=
 		</data>
 		<key>app/components.json</key>
 		<data>
 		akle5Uj21jMm4yNj496kABZ+pc4=
+		</data>
+		<key>app/glimmer-app.js</key>
+		<data>
+		hMCzjVmd2nI0nL3bQaqm8rnRdjM=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -234,7 +238,7 @@
 		</data>
 		<key>app/vendor.js</key>
 		<data>
-		8YdMbAoAv6Z1eMF8N/bPmbJZ/5Y=
+		Ilz5bPRvWB3OYI20VORzzigdEXo=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -454,11 +458,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yt+j+BzsMO4NjP+oxNT7WIATMyo=
+			7La41E09SZmnrTKI69iZBZv0oxM=
 			</data>
 			<key>hash2</key>
 			<data>
-			pXnzsjMeaAalKLeXySAKZTC+Np+sLh846IXxlSFgRSU=
+			GTCQ5xXf7gERkXAIQQVKprF6BukMt9suikKw6D0FWwg=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -773,11 +777,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XLdTg5EGg46/3oFDNwZfYh470P4=
+			1THqdOIyoKD/QdYqoW7Z/gsmj6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			Om5u02pEuPEdC2nZoDvd1FJBbxo3Qi/POoPl8oQz2yU=
+			zQC2WCFclxI8DzfhPPtP0GNMGAZpTU8D9XL2CfwyO6w=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -795,22 +799,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nmDRSMue0JDeajSsGbazX7/RHTA=
+			eqddPXBf3YxXKt45DV1N3yyq900=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xcl346Ozdm4BIc+pPGP1uSFr8LVlu2MTvWAliyFFM1c=
+			+tY1Ynu2PAPbb9b16KmXfOjXFlaCdOMTRQ6ZhSWpaLk=
 			</data>
 		</dict>
 		<key>app/bundle.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1TwOhplu5X/7u30GxTBRzM0Rg1Y=
+			6X9f4/Haf3B93u9lvrbhw1kbi2Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			yRNe3jsVrw+8jp3Onz410UY/6VlBHWORMUmfAnWL3wM=
+			1AoqTCIkJKv6HjBtQOsrH7Khjeqkr4x57f/VfToGIgM=
 			</data>
 		</dict>
 		<key>app/components.json</key>
@@ -822,6 +826,17 @@
 			<key>hash2</key>
 			<data>
 			uHEOcQjlU9A5DN//p3M5CrfUjkymSfrV0t7pHL2yTKM=
+			</data>
+		</dict>
+		<key>app/glimmer-app.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hMCzjVmd2nI0nL3bQaqm8rnRdjM=
+			</data>
+			<key>hash2</key>
+			<data>
+			rZb06JfZr07iWPbg1mAKuJ9wHH7UUHcyc7QE0LlXyc8=
 			</data>
 		</dict>
 		<key>app/package.json</key>
@@ -861,11 +876,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8YdMbAoAv6Z1eMF8N/bPmbJZ/5Y=
+			Ilz5bPRvWB3OYI20VORzzigdEXo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lf81P42M4eaBxFLn24LHAz9vI4aKPnJQAi7wNXkQE9o=
+			7CMXyQ6tlvip+YwGeJdvRYZY7wndQ5d1Sd0DDEDVsi4=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>
